@@ -1,0 +1,36 @@
+# NAME: 自定义直连
+# NAME: 很烦
+payload:
+  - DOMAIN,www.bvipc.com
+  - DOMAIN,cn.topping.pro
+  - DOMAIN,www.zuiyue.com
+  - DOMAIN,bigchick.xyz
+  - DOMAIN,bigchick.io
+  - DOMAIN,steamserver.net
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN,cloudflare.epicgamescdn.com
+  - DOMAIN,instant.arubanetworks.com
+  - DOMAIN,oasisauth.h3c.com
+  - DOMAIN,router.asus.com
+  - DOMAIN,setmeup.arubanetworks.com
+  - DOMAIN,www.asusrouter.com
+  - DOMAIN,cn-ms.galaxyappstore.com
+  - DOMAIN,cat.cjy.me
+  - DOMAIN,rog-live-service.asus.com
+  - DOMAIN,prod.rbg-services.com # 逃生
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,cp.cloudflare.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,baozimh.com
+  - DOMAIN-SUFFIX,ykmh.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,beilove.cn
+  - DOMAIN-REGEX,derp[a-z0-9]+\.tailscale\.com
+  - PROCESS-NAME,tailscale.exe
+  - PROCESS-NAME,rustdesk.exe
+  - PROCESS-NAME,ROGLiveService.exe
+  - PROCESS-NAME,v2rayN.exe
+  - PROCESS-NAME,NarakaBladepoint.exe
+  - PROCESS-NAME,com.huawei.work
+  - PROCESS-NAME,NotesOfSoul-Win64-Shipping.exe

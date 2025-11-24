@@ -1,0 +1,9 @@
+# NAME: 自定义科学
+payload:
+  - DOMAIN,xn--ngstr-cn-8za9o.com
+  - DOMAIN,xn--ngstr-lra8j.com
+  - DOMAIN,rr3---sn-j5o76n7l.xn--ngstr-cn-8za9o.com
+  - DOMAIN,services.googleapis.cn
+  - DOMAIN,community.oneplus.com
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN,status.owouo.com
