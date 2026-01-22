@@ -1,9 +1,7 @@
 # NAME: 自定义直连
 # NAME: 很烦
 payload:
-  - DOMAIN,www.bvipc.com
   - DOMAIN,cn.topping.pro
-  - DOMAIN,www.zuiyue.com
   - DOMAIN,bigchick.xyz
   - DOMAIN,bigchick.io
   - DOMAIN,steamserver.net
