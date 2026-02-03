@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,ykmh.com
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,beilove.cn
+  - DOMAIN-SUFFIX,mengva.com
   - DOMAIN-REGEX,derp[a-z0-9]+\.tailscale\.com
   - PROCESS-NAME,tailscale.exe
   - PROCESS-NAME,rustdesk.exe
