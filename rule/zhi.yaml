@@ -16,6 +16,7 @@ payload:
   - DOMAIN,cat.cjy.me
   - DOMAIN,rog-live-service.asus.com
   - DOMAIN,prod.rbg-services.com # 逃生
+  - DOMAIN,dcg.microsoft.com # Windows手机连接
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,cp.cloudflare.com
