@@ -2,6 +2,7 @@
 # NAME: 很烦
 payload:
   - DOMAIN,cn.topping.pro
+  - DOMAIN,api.minecraftservices.com
   - DOMAIN,bigchick.xyz
   - DOMAIN,bigchick.io
   - DOMAIN,steamserver.net
